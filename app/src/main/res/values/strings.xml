@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLite Extreme</string>
+    <string name="strTitle">REGISTRO UNIVERSITARIO</string>
+    <string name="action_settings">Settings</string>
+    <string name="strName">Nombre completo :</string>
+    <string name="strFechaNac">Fecha de nacimiento :</string>
+    <string name="strPais">Pais :</string>
+    <string name="strSpeak">Habla ingles :</string>
+    <string name="strSi">Si</string>
+    <string name="strfecha">00/00/0000</string>
+    <string name="strSexo">Sexo</string>
+    <string name="strMan">Hombre</string>
+    <string name="strWoman">Mujer</string>
+    <string name="strReg">Registrar</string>
+    <string name="strCerrar">Cerrar</string>
+    <string name="strNuevo">Nuevo</string>
+    <string name="strLista">Ver universitarios registrados</string>
+    <string name="strDelete">Eliminar</string>
+    <string name="strRegistros">Ver registros</string>
+    <string name="strContenido">Lorem ipsum</string>
+
+    <string-array name="paises">
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Brasil</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Ecuador</item>
+        <item>Mexico</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+
+    <string name="title_activity_registro">SQLite Extreme - Registro</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_registros">SQLite Extreme - Registros</string>
+
+</resources>
